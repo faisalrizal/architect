@@ -1,5 +1,5 @@
 {
-    "name": "jasahub/architect",
+    "name": "faisalrizal/architect",
     "autoload": {
         "psr-4": {
             "Jasahub\\Architect\\": "src/"
