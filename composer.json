@@ -1,8 +1,8 @@
 {
-    "name": "optimus/architect",
+    "name": "jasahub/architect",
     "autoload": {
         "psr-4": {
-            "Optimus\\Architect\\": "src/"
+            "Jasahub\\Architect\\": "src/"
         }
     },
     "require-dev": {
