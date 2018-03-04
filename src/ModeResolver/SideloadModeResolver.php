@@ -1,12 +1,12 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace Jasahub\Architect\ModeResolver;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Collection;
-use Optimus\Architect\ModeResolver\IdsModeResolver;
-use Optimus\Architect\ModeResolver\ModeResolverInterface;
-use Optimus\Architect\Utility;
+use Jasahub\Architect\ModeResolver\IdsModeResolver;
+use Jasahub\Architect\ModeResolver\ModeResolverInterface;
+use Jasahub\Architect\Utility;
 
 class SideloadModeResolver implements ModeResolverInterface
 {
