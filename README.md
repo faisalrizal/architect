@@ -135,7 +135,7 @@ nice convenience methods to define the Architect relationships in query paramete
 ## Installation
 
 ```bash
-composer require optimus/architect ~1.0
+composer require jasahub/architect
 ```
 
 ## Standards
